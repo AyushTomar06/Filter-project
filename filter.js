@@ -66,7 +66,7 @@ function display(data) {
             </div>
         
         `
-    )
+    ).join("");
 
 }
 
